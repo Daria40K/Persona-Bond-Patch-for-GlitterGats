@@ -1,6 +1,6 @@
 # Persona Bond Patch for [TMC] GlitterGats
 
-![](https://github.com/dave40k/Persona-Bond-Patch-for-GlitterGats/blob/main/About/Preview.png)
+![](https://github.com/Daria40K/Persona-Bond-Patch-for-GlitterGats/blob/main/About/Preview.png)
 
 ## Weapons Patch
 - Third Law Revolver
